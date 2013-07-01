@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="416.70001"
@@ -28,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98369586"
-     inkscape:cx="149.95776"
-     inkscape:cy="341.44297"
+     inkscape:zoom="0.98369585"
+     inkscape:cx="209.8582"
+     inkscape:cy="266.04202"
      inkscape:document-units="in"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g2996"
      showgrid="false"
      units="in"
      inkscape:window-width="1562"
@@ -43,20 +42,8 @@
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       orientation="1,0"
-       position="0,489.98884"
-       id="guide4191" />
-    <sodipodi:guide
        orientation="0,1"
-       position="332.41982,596.72915"
-       id="guide4197" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="416.79549,419.84521"
-       id="guide4199" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="260.24304,0"
+       position="315.64634,-284.13254"
        id="guide4201" />
   </sodipodi:namedview>
   <metadata
@@ -67,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,7 +66,7 @@
      transform="translate(0,-455.65975)">
     <g
        id="g2996"
-       transform="matrix(0.40295452,0,0,0.40295452,34.745624,434.32002)"
+       transform="matrix(0.40295452,0,0,0.40295452,37.795347,443.46919)"
        inkscape:export-filename="/Users/ghall/Desktop/rect4203.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -189,158 +176,79 @@
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="831.35529"
-         x="-17.905865"
-         id="image3964"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJCAYAAAALpr0TAAAABHNCSVQICAgIfAhkiAAAAMdJREFU
-GJVj+P////8fP378nzJl6n9LK5v/YuKS/6Vl5P6XlJb9f//+w38oYGH48uXLf2cXt/8srBwYWN/A
-+P/Ll68gChsam7AqguHUtAyIQnUNbbwKJSSl/////5+F6dmzZwz4wLdv3xkYGBgYmFRVVfEqNDY2
-gjBWrFyF01pWNs7/u3bthrjx/////3t7+/+zc3CjKBIQFPm/cNFiePAw/v//fxIDAwPD+fPn+ZYv
-Xyn/5OlTHgV5+U/p6Wl35eXlfkBdUAAAPQuI7JWNR2wAAAAASUVORK5CYII=
-"
-         height="22.335028"
-         width="24.816696"
+      <path
+         style="fill:#000000"
+         d="m 134.95484,425.63526 c 0,-1.36492 1.11675,-2.48167 2.48167,-2.48167 1.36492,0 2.48167,1.11675 2.48167,2.48167 0,1.36492 -1.11675,2.48167 -2.48167,2.48167 -1.36492,0 -2.48167,-1.11675 -2.48167,-2.48167 z"
+         id="path4323"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000"
+         d="m 46.263918,1395.8115 c -7.106981,-7.107 -0.771116,-18.0836 9.554066,-16.5521 7.534839,1.1177 11.725537,8.1971 8.19247,13.8397 -3.338494,5.3319 -13.564179,6.8948 -17.746536,2.7124 z"
+         id="path4336"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#040508;display:inline"
+         d="m 754.14743,1419.776 c 2.64144,-2.6415 3.4,-4.2255 3.4,-7.1 0,-2.8745 -0.75856,-4.4586 -3.4,-7.1 -2.87777,-2.8778 -4.10413,-3.4 -7.98422,-3.4 -3.65215,0 -5.24823,0.5933 -7.85,2.918 -2.80382,2.5052 -3.26578,3.5777 -3.26578,7.582 0,4.0043 0.46196,5.0768 3.26578,7.582 2.60177,2.3247 4.19785,2.918 7.85,2.918 3.88009,0 5.10645,-0.5222 7.98422,-3.4 z"
+         id="path3035-7"
+         inkscape:connector-curvature="0"
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="724.03333"
-         x="272.09296"
-         id="image3986"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAABHNCSVQICAgIfAhkiAAAAEhJREFU
-CJljWLBg4X9hEfH/+gbG/y9evPiUUVhE/P/Hjx8ZGBgYGMzMTH8yGRkZMsCAtrb2L4Z3794dioiM
-flpQUHT/58+fKwCSpRwFc3Hx4QAAAABJRU5ErkJggg==
-"
-         height="9.9266787"
-         width="9.9266787"
+      <path
+         style="fill:#040508;display:inline"
+         d="m 866.11332,512.89449 c 2.75479,-2.75479 0.70355,-7.8 -3.17126,-7.8 -2.13655,0 -5.62874,2.6841 -5.62874,4.32625 0,3.53258 6.26722,6.00653 8.8,3.47375 z"
+         id="path3029-6"
+         inkscape:connector-curvature="0"
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="438.95679"
-         x="118.20205"
-         id="image4008"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAABHNCSVQICAgIfAhkiAAAAEhJREFU
-CJljWLd+w39pGbn/klIy/1evXvOQQVJK5j8LK8d/FlaO/5ZWNl+ZpKSkGGBAQUHhF/P+ffs5//z5
-/dHU1ORWY0PdXABHmxkOLFQtJQAAAABJRU5ErkJggg==
-"
-         height="9.9266787"
-         width="9.9266787"
+      <path
+         style="fill:#040508;display:inline"
+         d="m 868.63613,1078.0021 c 2.75479,-2.7548 0.70355,-7.8 -3.17126,-7.8 -2.13655,0 -5.62874,2.6841 -5.62874,4.3262 0,3.5326 6.26722,6.0066 8.8,3.4738 z"
+         id="path3029-2"
+         inkscape:connector-curvature="0"
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="1381.326"
-         x="688.47864"
-         id="image4052"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJCAYAAAALpr0TAAAABHNCSVQICAgIfAhkiAAAANJJREFU
-GJVj+P////8vX778b21t/29oZPpfVEziv7aO/v+Wlrb/v379+g8FPAxv3777b2Bo8p+FlQMDu7p5
-wBTzMP/6/adhy5atDNjAgwcPGHh4eBisrCzbGRQUlLGaBsMqqhr/////z8PIyyf4//v371hNhIET
-x48IMGlra+FVpKCgwGBsbPyXKT8/D6/CivJSCOP/////W1ra/rNzcKO4jYOT539razs8eBj///+/
-kYGBgeHkyZO8M2bOlnv54gW7iorKl+TkxKf6+vpfoQaHAwARNHez7EGDKQAAAABJRU5ErkJggg==
-"
-         height="22.335028"
-         width="24.816696"
+      <path
+         style="fill:#040508;display:inline"
+         d="m -29.481304,1163.7773 c 2.75479,-2.7547 0.70355,-7.8 -3.17126,-7.8 -2.13655,0 -5.62874,2.6841 -5.62874,4.3263 0,3.5326 6.26722,6.0065 8.8,3.4737 z"
+         id="path3029-7"
+         inkscape:connector-curvature="0"
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="691.23694"
-         x="471.39429"
-         id="image4074"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAA3NCSVQICAjb4U/gAAAAP0lEQVQI
-mQE0AMv/AKCgoRMUFy8wM9XV1QETFBfx8fEAAAA7OzoCMjIxAAAAAAAALS0tAPLy8mlpa4GBg/v7
-+7IEEprg94rUAAAAAElFTkSuQmCC
-"
-         height="9.9266787"
-         width="9.9266787"
+      <path
+         style="fill:#040508;display:inline"
+         d="m 11.062018,770.08804 c 2.020919,3.59628 3.691244,6.13705 0.848678,6.13705 -1.567376,0 -7.3043698,0.54157 -7.3043698,-1.60217 0,-4.61168 4.5976413,-7.84136 6.4556918,-4.53488 z"
+         id="path3029-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:nodetypes="ssss" />
+      <path
+         style="fill:#040508;display:inline"
+         d="m 8.3607226,99.154997 c 2.7547904,-2.75479 0.70355,-7.8 -3.17126,-7.8 -2.13655,0 -5.62873996,2.6841 -5.62873996,4.32625 0,3.53258 6.26721996,6.006533 8.79999996,3.47375 z"
+         id="path3029-3"
+         inkscape:connector-curvature="0"
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="1036.8608"
-         x="21.094772"
-         id="image4096"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAYAAABGM/VAAAAABHNCSVQICAgIfAhkiAAAAFlJREFU
-CJljuHHjxn8HR+f/klIy/+fNm///////fAzKKur/WVg5/rOwcvwXERX/////fz4mYyNDBhjg5ORk
-eP/+PSPzhQvnhVhYWN9LSUm8q6yoPKirq7MWANQJH+7eIvcrAAAAAElFTkSuQmCC
-"
-         height="9.9266787"
-         width="12.408348"
+      <path
+         style="fill:#040508;display:inline"
+         d="m 391.82659,714.71863 c 2.75479,-2.75479 0.70355,-7.8 -3.17126,-7.8 -2.13655,0 -5.62874,2.6841 -5.62874,4.32625 0,3.53258 6.26722,6.00653 8.8,3.47375 z"
+         id="path3029-6-5"
+         inkscape:connector-curvature="0"
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="999.01874"
-         x="640.422"
-         id="image4118"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAA3NCSVQICAjb4U/gAAAAPUlEQVQI
-mWNYt36DtIycpJTMli1bGSSlZFhYOVhYORwcnZmkpKQYGBgYGBiUlZUZX716vXr1GiYmpujoSAA9
-7wyUMpxtUwAAAABJRU5ErkJggg==
-"
-         height="9.9266787"
-         width="9.9266787"
+      <path
+         style="fill:#040508;display:inline"
+         d="m 661.76638,997.27239 c 2.75479,-2.7547 0.70355,-7.8 -3.17126,-7.8 -2.13655,0 -5.62874,2.6841 -5.62874,4.3263 0,3.5326 6.26722,6.0065 8.8,3.4737 z"
+         id="path3029-6-58"
+         inkscape:connector-curvature="0"
          inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <image
-         y="1363.6664"
-         x="-10.337445"
-         id="image4140"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJCAYAAAALpr0TAAAABHNCSVQICAgIfAhkiAAAAMxJREFU
-GJV1kL0OwWAYRl/iky/xUy1ll5g1XACxEZegrP5m92FQt4A7qJEm0oQbkHRll7Zpk8pjqEqEPsnZ
-znDyEADcbneo6giiJCPFOKRiGePJDLZt4z2RLMtCtVpDivEfWu0OHMcJxW6v/1eKmEznACAm8oIE
-13UpbpxzupxNOen7fqxEROR5HhmGkaa4voi60gwbNW0dK2WyAg6HYygCwGqlIZsrfEkluQJd33/u
-SQBYEBGdTLOw22xrQRAkGWPPwVC9NhTl8U5dvgDlXo9h4U0FogAAAABJRU5ErkJggg==
-"
-         height="22.335028"
-         width="24.816696"
-         inkscape:export-filename="/Users/ghall/Desktop/image4162.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <image
-         y="1019.2012"
-         x="892.70215"
-         id="image4162"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAA3NCSVQICAjb4U/gAAAAPUlEQVQI
-mWNYt36DtIycpJTMli1bGSSlZFhYOVhYORwcnZmkpKQYGBgYGBiUlZUZX716vXr1GiYmpujoSAA9
-7wyUMpxtUwAAAABJRU5ErkJggg==
-"
-         height="9.9266787"
-         width="9.9266787"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer3"
-       inkscape:label="bounding box"
-       style="display:inline">
-      <rect
-         style="opacity:0.59482757;fill:#ffffff;fill-opacity:1"
-         id="rect4193"
-         width="20.331488"
-         height="47.778996"
-         x="148.41986"
-         y="-124.05122"
-         transform="translate(0,455.65975)" />
-      <rect
-         style="opacity:0.59482757;fill:#ffffff;fill-opacity:1"
-         id="rect4195"
-         width="1.0165744"
-         height="56.928165"
-         x="257.19333"
-         y="-125.06779"
-         transform="translate(0,455.65975)" />
-      <rect
-         style="opacity:0.59482756999999997;fill:none;fill-opacity:1"
-         id="rect4203"
-         width="416.7955"
-         height="596.72913"
-         x="0"
-         y="-0.029137792"
-         transform="translate(0,455.65975)"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </g>
